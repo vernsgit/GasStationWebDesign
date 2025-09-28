@@ -31,10 +31,11 @@ This project demonstrates a multi-page responsive design focused on **branding, 
 
 ## 📸 Preview
 ### Web design
-![Web preview](./previews/GasStation%20Start+.png)
+![Web preview](./previews/GasStation%20Start+.jpg)
 
 ### Mobile design
-![Mobile preview](./previews/GasStation%20Start+_mobile.png)
+![Mobile preview](./previews/GasStation%20Start+_mobile.jpg)
+
 
 ---
 
